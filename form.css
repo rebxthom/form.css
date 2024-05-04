@@ -1,0 +1,26 @@
+body {
+background-color: rgba(101, 87, 72, 0.515);
+font-family: georgia;
+}
+h1{
+    font-family: cambria;
+}
+
+input,
+textarea,
+select {
+  margin: 1px 1 1 1;
+  width: 100%;
+  min-height: 1em;
+}
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+input, textarea, select {
+    background-color: #50473e;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+  }
